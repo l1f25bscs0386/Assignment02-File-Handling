@@ -1,4 +1,6 @@
 # Assignment02-File-Handling
+Name and reg 
+question list
 File Handling
 /*
  * Name       : Ali asad
